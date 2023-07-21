@@ -116,7 +116,7 @@ typedef void* NV_ENC_REGISTERED_PTR;        /**< A Resource that has been regist
 typedef void* NV_ENC_CUSTREAM_PTR;          /**< Pointer to CUstream*/
 
 #define NVENCAPI_MAJOR_VERSION 12
-#define NVENCAPI_MINOR_VERSION 1
+#define NVENCAPI_MINOR_VERSION 0
 
 #define NVENCAPI_VERSION (NVENCAPI_MAJOR_VERSION | (NVENCAPI_MINOR_VERSION << 24))
 
